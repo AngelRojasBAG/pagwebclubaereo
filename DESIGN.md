@@ -7,3 +7,6 @@ Bitácora aeronáutica y archivo editorial regional, no landing SaaS.
 - No inventar novedades, cifras, datos técnicos o fotografías. Mostrar fecha o carácter histórico; separar hechos de datos por verificar.
 - Verificar navegación, teclado, móvil 375px, escritorio 1440px, imágenes y enlaces antes de aprobar. No afirmar pruebas que no se ejecutaron.
 Referencias metodológicas: https://github.com/funboy322/avoid-ai-design y https://developers.openai.com/api/docs/guides/frontend-prompt
+
+## v0.4.0
+Evolución editorial contemporánea: Newsreader y DM Sans con fuentes de sistema de respaldo, blanco cálido, azul tinta, cobre, cabecera más ligera, fotografía amplia, navegación fija, tablas y filtros refinados. Sin gradientes ni tarjetas repetitivas. Mantener esta dirección en futuras iteraciones.
