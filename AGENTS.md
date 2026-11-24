@@ -1,0 +1,2 @@
+# Instrucciones del proyecto
+Leer DESIGN.md antes de cambiar UI. Mantener HTML/CSS/JS estático compatible con GitHub Pages, rutas relativas y contenido accesible sin JS. No cambiar identidad visual por defaults de frameworks. No publicar información histórica como vigente; citar fuente original. Mantener inventario de migración en CONTENT.md. No copiar íntegramente textos o descargar fotografías sin autorización. Registrar versión y enlace de despliegue. No marcar comprobaciones no ejecutadas como hechas.
