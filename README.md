@@ -15,3 +15,6 @@ Fuente: https://www.clubaereolosangeles.cl/
 
 ## v0.3.0
 Ampliación de fichas históricas, hemeroteca e índice fotográfico. La demo mantiene enlaces externos para material no autorizado para reproducción. Ver CONTENT.md.
+
+## v0.4.0
+Refinamiento visual global, manteniendo los contenidos de v0.3.0. Fuentes externas de Google con fallback local. Pendiente revisión visual en navegador.
