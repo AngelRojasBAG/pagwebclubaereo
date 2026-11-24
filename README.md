@@ -1,2 +1,14 @@
 # pagwebclubaereo
 Página estática de muestra para el club aéreo
+
+
+## Demo v0.1.0
+Propuesta estática no oficial. HTML, CSS y JavaScript. Abrir index.html o ejecutar `python -m http.server 8000`.
+
+## GitHub Pages
+Settings > Pages > Deploy from a branch > main > / (root) > Save. Se requiere un plan compatible para repositorios privados. El sitio publicado puede ser público.
+URL prevista: https://angelrojasbag.github.io/pagwebclubaereo/
+
+## Pendientes
+Símbolo provisional, fotografías externas del sitio original (confirmar autorización y disponibilidad), información histórica pendiente de validación, contacto por mailto sin backend, migración no exhaustiva y pruebas de navegador pendientes.
+Fuente: https://www.clubaereolosangeles.cl/
