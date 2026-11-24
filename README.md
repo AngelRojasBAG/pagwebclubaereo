@@ -12,3 +12,6 @@ URL prevista: https://angelrojasbag.github.io/pagwebclubaereo/
 ## Pendientes
 Símbolo provisional, fotografías externas del sitio original (confirmar autorización y disponibilidad), información histórica pendiente de validación, contacto por mailto sin backend, migración no exhaustiva y pruebas de navegador pendientes.
 Fuente: https://www.clubaereolosangeles.cl/
+
+## v0.3.0
+Ampliación de fichas históricas, hemeroteca e índice fotográfico. La demo mantiene enlaces externos para material no autorizado para reproducción. Ver CONTENT.md.
